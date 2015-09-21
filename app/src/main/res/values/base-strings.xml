@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PlaceComplete</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            This sample uses the Google Places Geo Data API for Android to provide autocomplete suggestions.
+            It shows how to use a custom Adapter to display suggestions in an AutocompleteTextView.
+            Once selected, details about a place are retrieved based on its Place id from the
+            Places Geo Data API.
+            
+        
+        ]]>
+    </string>
+    <string name="intro_message_th">
+        <![CDATA[
+
+            ตัวอย่างวิธีการใช้ Google Place Geo Data API สำหรับ Android
+
+        ]]>
+    </string>
+</resources>
